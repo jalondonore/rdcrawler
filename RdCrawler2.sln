@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdCrawler2", "RdCrawler2\RdCrawler2.csproj", "{91A39E2D-377B-402A-A2FA-56B8022CD0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A39E2D-377B-402A-A2FA-56B8022CD0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A39E2D-377B-402A-A2FA-56B8022CD0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A39E2D-377B-402A-A2FA-56B8022CD0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A39E2D-377B-402A-A2FA-56B8022CD0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025C3627-EC0F-4061-8586-2155F70F5D99}
+	EndGlobalSection
+EndGlobal
