@@ -1,0 +1,1 @@
+I developed this crawler to help the SEO team automate the analysis of client websites. By evaluating link profiles and directory structures, it provides valuable data to inform optimization strategies.
